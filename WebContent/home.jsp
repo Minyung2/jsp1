@@ -31,6 +31,7 @@
 		<li><%=message%></li>
 
 
+
 		<%
 			String[] names={"박세리", "김연경", "허재", "안정환"};
 			for (int i = 0; i < names.length; i++) {
